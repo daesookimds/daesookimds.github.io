@@ -2,7 +2,7 @@
 permalink: /resume/
 title: "Resume"
 excerpt: "under construction"
-author: "Daesoo Kim"
+layout: default
 author_profile: true
 ---
 

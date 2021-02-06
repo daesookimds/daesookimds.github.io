@@ -2,7 +2,7 @@
 permalink: /culture/
 title: "Culture"
 excerpt: "under construction"
-author: "Daesoo Kim"
+layout: default
 author_profile: true
 ---
 

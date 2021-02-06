@@ -2,7 +2,7 @@
 permalink: /learn/
 title: "Learn"
 excerpt: "under construction"
-author: "Daesoo Kim"
+layout: default
 author_profile: true
 ---
 
