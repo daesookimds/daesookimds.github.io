@@ -1,0 +1,11 @@
+Daesoo Kim:
+  name        : "Daesoo Kim"
+  bio         : "chill out in a waterside"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dskim@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://daesookimds.github.io"
