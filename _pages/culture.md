@@ -2,7 +2,7 @@
 permalink: /culture/
 title: "Culture"
 excerpt: "under construction"
-layout: default
+layout: single
 author_profile: true
 ---
 

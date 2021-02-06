@@ -2,7 +2,7 @@
 permalink: /resume/
 title: "Resume"
 excerpt: "under construction"
-layout: default
+layout: single
 author_profile: true
 ---
 
