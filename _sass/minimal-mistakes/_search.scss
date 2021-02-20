@@ -64,17 +64,24 @@
     border: none;
     outline: none;
     box-shadow: none;
-    background-color: transparent;
-    font-size: $type-size-3;
+    background-color: #0092ca;
+    color: white;
+    font-size: $type-size-5;
 
     @include breakpoint($large) {
-      font-size: $type-size-2;
+      font-size: $type-size-5;
     }
 
     @include breakpoint($x-large) {
-      font-size: $type-size-1;
+      font-size: $type-size-5;
     }
+
   }
+
+  .search-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+  }
+
 
   &.is--visible {
     display: block;
@@ -85,6 +92,8 @@
       display: block;
     }
   }
+
+
 
   .results__found {
     margin-top: 0.5em;
