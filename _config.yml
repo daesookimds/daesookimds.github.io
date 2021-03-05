@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Daesoo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineer"
+  bio              : "Data Scientist"
   location         : "Seoul. Repulic of Korea"
   email            : "dskim@gmail.com"
   links:
