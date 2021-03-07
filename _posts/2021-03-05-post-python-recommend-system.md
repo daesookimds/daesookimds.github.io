@@ -13,8 +13,6 @@ last_modified_at: 2021-03-05T
 
 #### Import Package
 
-사용할 패키지 import 부분으로 특이사항은 없다.<br>
-(M1 mac 환경에 경우 tensorflow를 설치하는 것이 상당히 번거로움을 발견했다..)
 
 ```python
 import numpy as np
@@ -33,7 +31,6 @@ from tensorflow.keras.metrics import RootMeanSquaredError
 
 #### Load Dataset
 
-코드구현에 활용할 데이터 셋은 아주 유명한 movie lense 데이터이다.
 
 ```python
 data = Dataset.load_builtin('ml-100k')
@@ -47,7 +44,6 @@ ratings.head()
 
 #### Score Mixin
 
-먼저 각 추천 알고리즘을 비교하기 위한 Scoring을 도와줄 Mixin 클래스를 정의한다.
 
 ```python
 class ScoreMixin(object):
@@ -76,7 +72,6 @@ class ScoreMixin(object):
 
 #### Baseline Recommend
 
-추천알고리즘의 기본 골격이 되어줄 baseline 클래스를 생성해준다.
 
 ```python
 
