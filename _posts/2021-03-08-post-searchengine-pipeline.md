@@ -10,4 +10,4 @@ last_modified_at: 2021-03-08T
 #### Search Engine Pipeline
 
 
-![- Search Engine pipeline]({{ site.url }}/assets/images/searchengine.jpeg)
+![- Search Engine pipeline](/assets/images/searchengine.jpeg)
